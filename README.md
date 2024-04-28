@@ -1,12 +1,13 @@
 <h1 align="center">¡Hola! 👋, Me llamo César</h1>
-<h3 align="center">Beginning int the JavaScript world</h3>
+<h3 align="center">Intento dejar el soporte TI y volver al desarrollo :jigsaw:</h3>
 
 - 🌱 Estoy aprendiendo **JavaScript, nodejs, eventually Kotlin... korean?**. Aunque siempre he usado mas **SQL**
-- :jigsaw: Intento dejar de reparar computadores y volver al desarrollo...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cesarseron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesarseron/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cesarseron/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +21,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -33,7 +33,10 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
-  
+
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="Android" width="40" height="40"/> 
+  </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
