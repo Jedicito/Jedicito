@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋, Me llamo César</h1>
 <h3 align="center">Intento dejar el soporte TI y volver al desarrollo :jigsaw:</h3>
 
-- 🌱 Estoy aprendiendo **JavaScript, nodejs, eventually Kotlin... coreano?**. Aunque siempre he usado mas **SQL**
+- 🌱 Estoy aprendiendo **JavaScript, nodejs, eventualmente Kotlin... y coreano?**. Pero siempre he usado mas **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
